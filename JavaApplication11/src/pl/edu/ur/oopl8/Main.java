@@ -1,5 +1,4 @@
 package pl.edu.ur.oopl8;
-
 import KlasyPochodne.Kolo;
 import KlasyPochodne.Kwadrat;
 import KlasyPochodne.Prostokat;
